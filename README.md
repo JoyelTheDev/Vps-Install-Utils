@@ -23,6 +23,10 @@ Run this command as **root** or with **sudo**:
 ```bash
 bash <(curl -s https://ptero.nobitapro.online)
 ```
+repo
+```
+https://github.com/JoyelTheDev/vm.git
+````
 
 That’s it.
 No copy-paste drama. No dependency headache.
