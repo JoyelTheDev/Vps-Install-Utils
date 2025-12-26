@@ -21,7 +21,7 @@ Perfect for devs, hosters, and late-night sysadmins running on coffee ☕.
 Run this command as **root** or with **sudo**:
 
 ```bash
-bash <(curl -s https://ptero.nobitapro.online)
+bash <(curl -s https://raw.githubusercontent.com/JoyelTheDev/Vps-Install-Utils/refs/heads/main/srv/menu/main.sh)
 ```
 repo
 ```
